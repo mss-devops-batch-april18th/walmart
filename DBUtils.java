@@ -1,1 +1,1 @@
-This file contain DB related logic
+This file contain DB related logic code
